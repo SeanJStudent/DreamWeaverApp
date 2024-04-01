@@ -6,9 +6,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/dw_app_icon"
+        android:icon="@mipmap/dw_app_icon_imageasset"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/dw_app_icon"
+        android:roundIcon="@mipmap/dw_app_icon_imageasset_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DreamWeaver"
         tools:targetApi="31">
