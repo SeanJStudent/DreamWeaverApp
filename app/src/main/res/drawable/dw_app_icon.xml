@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/background_shape">
+        <shape android:shape="rectangle">
+            <size android:width="500dp" android:height="500dp"/>
+            <gradient android:angle="100" android:startColor="#B422CE" android:endColor="#3BFFEF"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/baseline_auto_stories_24"
+        android:gravity="center"
+        android:width="100dp"
+        android:height="100dp"
+        android:top="16dp"
+        android:bottom="16dp"
+        android:left="16dp"
+        android:right="16dp" />
+</layer-list>
