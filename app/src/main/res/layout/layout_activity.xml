@@ -68,7 +68,7 @@
             android:backgroundTint="#63FFFFFF"
             android:padding="18dp"
             android:text="@string/usrLogin"
-            android:textColor="#E87C95"
+            android:textColor="#625C97"
             android:textSize="20sp"
             app:cornerRadius="50dp"
             android:textStyle="bold"
